@@ -9,3 +9,9 @@ Acesse: https://tatiana3016.github.io/todo-list/
 - Adicionar tarefas
 - Marcar uma tarefa como feita (clique no texto)
 - Excluir tarefas
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
